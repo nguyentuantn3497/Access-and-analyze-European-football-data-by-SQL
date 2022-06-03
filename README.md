@@ -3,6 +3,7 @@
 
 Sử dụng Python để kết nối với cơ sở dữ liệu SQLite
 Lấy thông tin của tất cả các bảng
+
 2. Câu hỏi 2: Liệt kê các quốc gia có trong bảng "Country"
 
 3. Câu hỏi 3: Liệt kê các giải đấu trong bảng "League"
